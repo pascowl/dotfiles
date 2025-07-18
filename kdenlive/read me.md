@@ -1,5 +1,5 @@
 ## Personal (Vimlike) Shortcuts
-on Kdenlive > Settings > Configure Keyboard Shortcuts > Manage Schemes > More Actions > Import Scheme > select [Keyboard shortcuts scheme (2024-11-10).shortcuts](https://github.com/pascowl/dotfiles/blob/main/kdenlive/Keyboard%20shortcuts%20scheme%20(2024-11-10).shortcuts)
+on Kdenlive > Settings > Configure Keyboard Shortcuts > Manage Schemes > More Actions > Import Scheme > select [Keyboard shortcuts scheme (2024-11-10).shortcuts](https://github.com/pascowl/dotfiles/blob/main/kdenlive/Keyboard%20shortcuts%20scheme%20(2024-11-10).shortcuts) file. Chekc for the shorcuts down below:
 
 | shortcut    | description                                  |
 | ----------- | --------------------------------------       |
